@@ -2,7 +2,7 @@
 
 # Project Description:
 
-Embark on an exhilarating journey of urban exploration with SehriBul, a captivating mobile game meticulously crafted to challenge and enrich players' knowledge of cities in Turkey. Through a seamless fusion of entertainment and education, SehriBul offers a dynamic platform for enthusiasts and adventurers alike to immerse themselves in the diverse tapestry of urban landscapes.
+Embark on an exhilarating journey of urban exploration with SehriBul, a captivating mobile game meticulously crafted to challenge and enrich players' knowledge of cities in Turkey. Through a seamless fusion of entertainment and education, SehriBul offers a dynamic platform for enthusiasts and adventurers alike to immerse themselves in the diverse tapestry of urban landscapes. This project has been developed in 2021.
 
 # Mobile Programming Context:
 
