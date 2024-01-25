@@ -1,7 +1,3 @@
-# sehribul
-
-sehribul is a Flutter application.
-
 # Project Title: SehriBul
 
 # Project Description:
